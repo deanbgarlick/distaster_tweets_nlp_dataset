@@ -1,6 +1,4 @@
 __pycache__/
 .ipynb_checkpoints/
 venv/
-sample_submission.csv
-test.csv
-train.csv
+data/
